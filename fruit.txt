@@ -1,10 +1,7 @@
-Melon
 Apple
 Pears
-Bananas
 Melon
 Kiwi
 Oranges
 Peaches
 Apricots
-Grapes
