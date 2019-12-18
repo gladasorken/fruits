@@ -3,3 +3,6 @@ Pears
 Bananas
 Melon
 Kiwi
+Oranges
+Peaches
+Apricots
