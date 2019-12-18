@@ -1,8 +1,9 @@
+Bananas
 Apple
 Pears
-Bananas
 Melon
 Kiwi
 Oranges
 Peaches
 Apricots
+Lemon
