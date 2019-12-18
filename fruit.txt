@@ -1,4 +1,3 @@
-Bananas
 Apple
 Pears
 Melon
@@ -6,5 +5,3 @@ Kiwi
 Oranges
 Peaches
 Apricots
-Lemon
-Lime
